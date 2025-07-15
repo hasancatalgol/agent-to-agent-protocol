@@ -1,1 +1,8 @@
-# agent-to-agent-protocol
+# Agent to Agent(A2A) Protocol
+
+## 📦 Installation
+
+Install all required dependencies using `npm`:
+
+```bash
+npm install @a2a-js/sdk@^0.2.4 @genkit-ai/googleai@^1.8.0 @genkit-ai/vertexai@^1.8.0 @types/cors@^2.8.17 @types/express@^5.0.1 body-parser@^2.2.0 cors@^2.8.5 express@^4.21.2 genkit@^1.8.0
